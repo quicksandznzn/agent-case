@@ -30,9 +30,3 @@ OPENAI_AGENTS_DISABLE_TRACING=true
 ```
 python3 main.py
 ```
-
-### Lint
-
-```
-make lint
-```
